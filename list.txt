@@ -16,13 +16,13 @@ A list begins and ends with square brackets ([ and ]).
 Each item (i.e., 67 or 70) is separated by a comma (,)
 It’s considered good practice to insert a space () after each comma, but your code will run just fine if you forget the space.
 Instructions
-         1.A new student just joined the class:
+        1.A new student just joined the class:
 
 Cole is 65 inches tall
 Add Cole’s height to the end of the list heights.
 
 Checkpoint 2 Passed
-          2.Remove the # in front of the definition of the list broken_heights. If you run this code, you’ll get an error:
+        2.Remove the # in front of the definition of the list broken_heights. If you run this code, you’ll get an error:
 
 SyntaxError: invalid syntax
 Add commas (,) to broken_heights so that it runs without errors.
